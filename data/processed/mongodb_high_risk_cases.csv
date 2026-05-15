@@ -1,0 +1,6 @@
+case_id,hub_name,delivery_status,risk_score
+CASE_O00031,North Exchange,Failed,4
+CASE_O00081,Midtown Relay,Failed,4
+CASE_O00089,Central Core,Failed,4
+CASE_O00128,Riverside Hub,Delayed,5
+CASE_O00129,North Exchange,Failed,4
