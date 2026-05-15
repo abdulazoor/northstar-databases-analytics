@@ -36,7 +36,6 @@ Demonstrate CRUD operations and aggregation pipelines
 Apply indexing and query optimisation techniques
 Support operational intelligence using integrated analytics
 
-Repository Structure
 northstar-databases-analytics/
 │
 ├── README.md
@@ -75,9 +74,35 @@ northstar-databases-analytics/
 ├── images/
 │   │
 │   ├── sql_r/
+│   │   ├── query_outputs/
+│   │   ├── sql_results/
+│   │   └── r_visualisations/
+│   │
 │   ├── python/
-    └── mongodb/
-
+│   │   ├── preprocessing/
+│   │   ├── feature_engineering/
+│   │   ├── correlation_analysis/
+│   │   └── analytics_outputs/
+│   │
+│   └── mongodb/
+│       ├── atlas_environment/
+│       ├── bson_documents/
+│       ├── crud_operations/
+│       ├── aggregation_pipelines/
+│       ├── indexing/
+│       └── explain_plans/
+│
+├── mongo/
+│   └── mongodb_queries.js
+│
+├── report/
+│   ├── NorthStar_Final_Report.docx
+│   └── NorthStar_Final_Report.pdf
+│
+└── requirements/
+    ├── python_packages.txt
+    └── r_packages.txt
+    
 Dataset Environment
 
 The project uses multiple interconnected operational datasets provided within the NorthStar case study environment.
