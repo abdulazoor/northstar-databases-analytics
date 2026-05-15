@@ -1,4 +1,4 @@
-#NorthStar Databases and Analytics Project
+NorthStar Databases and Analytics Project
 Overview
 
 This repository contains the complete analytical and database implementation developed for the Databases and Analytics module based on the NorthStar Urban Mobility and Logistics case study.
@@ -12,7 +12,7 @@ MongoDB Atlas NoSQL implementation
 
 The investigation focuses on transforming fragmented operational datasets into meaningful organisational intelligence capable of supporting operational monitoring, business decision-making, and scalable analytical processing.
 
-#Technologies Used
+Technologies Used
 Python
 Pandas
 NumPy
@@ -24,7 +24,7 @@ Google Colab
 GitHub
 Project Objectives
 
-#The main objectives of this project are:
+The main objectives of this project are:
 
 Analyse delivery delays and operational inefficiencies
 Identify customer complaint and incident patterns
@@ -36,7 +36,7 @@ Demonstrate CRUD operations and aggregation pipelines
 Apply indexing and query optimisation techniques
 Support operational intelligence using integrated analytics
 
-#Repository Structure
+Repository Structure
 northstar-databases-analytics/
 │
 ├── README.md
