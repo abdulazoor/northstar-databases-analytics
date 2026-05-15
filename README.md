@@ -12,6 +12,8 @@ MongoDB Atlas NoSQL implementation
 
 The investigation focuses on transforming fragmented operational datasets into meaningful organisational intelligence capable of supporting operational monitoring, business decision-making, and scalable analytical processing.
 
+The GitHub repository was organised into several structured folders to improve organisation and reproducibility. The notebooks folder contains the Google Colab notebooks used for SQL/R analysis, Python analytics, and MongoDB Atlas implementation. The data folder stores the raw, cleaned, and processed datasets used throughout the investigation. The images folder contains SQL/R outputs, Python analytical visualisations, and MongoDB Atlas screenshots.
+
 Technologies Used
 Python
 Pandas
